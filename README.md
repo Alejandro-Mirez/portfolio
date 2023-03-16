@@ -13,3 +13,12 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * **Agile Project Management Foundation by APMG International** certificate id 04247987-01-935D (2019)
 * **PRINCE 2 Foundation Certificate in Project Management by PeopleCert** certificate id GR633116133AG (2019)
 * **Testowanie bezpieczeństwa systemów IT by Polsko-Japońska Akademia Technik Komputerowych** - postgraduate studies (2023 - in progress)
+# Blogs read
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+* [blog.aspiresys.com](https://blog.aspiresys.com/category/testing/)
+* [strongqa.com](https://strongqa.com/qa-portal/knowledge-base)
+* [jakzostactesterem.pl](https://jakzostactesterem.pl/)
+# My test documentation
+in progress
+# My projects
+in progress
