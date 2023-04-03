@@ -20,5 +20,5 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * [jakzostactesterem.pl](https://jakzostactesterem.pl/)
 # Where I gain experience in coding
 * doing challenges on [codewars](https://codewars.com) - you can see some of my solutions [here](https://github.com/Alejandro-Mirez/Codewars)
-* working on my [website](https://github.com/Alejandro-Mirez/MyWebsite)
+* working on my [website](https://github.com/Alejandro-Mirez/MyWebpage)
 * working on a [data proxy](https://github.com/Alejandro-Mirez/DataProxy) for a coffee app
