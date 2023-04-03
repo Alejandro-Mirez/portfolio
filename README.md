@@ -18,7 +18,7 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * [blog.aspiresys.com](https://blog.aspiresys.com/category/testing/)
 * [strongqa.com](https://strongqa.com/qa-portal/knowledge-base)
 * [jakzostactesterem.pl](https://jakzostactesterem.pl/)
-# My test documentation
-in progress
-# My projects
-in progress
+# Where I gain experience in coding
+* doing challenges on [codewars](https://codewars.com) - username: Alejandro_Ramirez
+* working on my website - it's not out to the public yet though (but I'm going to polish it and put it online I promise)
+* working on a coffee app with my friends - it's their project but I managed to help them some (I will link it soon)
