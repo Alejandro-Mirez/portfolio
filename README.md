@@ -14,6 +14,8 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * web development
 * app development
 * automated testing (Selenium)
+# Currently reading
+* **Testowanie i jakość oprogramowania - modele, techniki, narzędzia** by Adam Roman
 # Courses
 * **Agile Project Management Foundation by APMG International** certificate id 04247987-01-935D (2019)
 * **PRINCE 2 Foundation Certificate in Project Management by PeopleCert** certificate id GR633116133AG (2019)
