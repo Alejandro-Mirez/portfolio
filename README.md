@@ -33,4 +33,4 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * doing challenges on [codewars](https://codewars.com) - you can see some of my solutions [here](https://github.com/Alejandro-Mirez/Codewars)
 * working on my [website](https://github.com/Alejandro-Mirez/MyWebpage)
 * working on a [data proxy](https://github.com/Alejandro-Mirez/DataProxy) for a coffee app
-* working on a equestrian planner app - yet to be committed.
+* working on a equestrian planner app - yet to be committed
