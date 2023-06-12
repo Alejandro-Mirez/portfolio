@@ -7,10 +7,11 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * **PRINCE 2 Foundation Certificate in Project Management by PeopleCert** certificate id GR633116133AG (2019)
 * **Testowanie bezpieczeństwa systemów IT by Polsko-Japońska Akademia Technik Komputerowych** - postgraduate studies (2023 - in progress)
 # Tools
-* **programming languages :** Python, JavaScript, HTML and CSS
+* **programming languages :** Python, JavaScript (ES6), React, HTML5 and CSS
 * **other :** SQL
 * **OS :** Windows, Linux
-* **version control :** Git
+* **version control :** Git, GitHub, GitLab
+* **IDE :** IntelliJ IDEA
 * **management methodologies :** Scrum, Kanban
 * **management tools :** Jira, Trello
 # Learning
