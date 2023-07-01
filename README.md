@@ -7,8 +7,8 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * **PRINCE 2 Foundation Certificate in Project Management by PeopleCert** certificate id GR633116133AG (2019)
 * **Testowanie bezpieczeństwa systemów IT by Polsko-Japońska Akademia Technik Komputerowych** - postgraduate studies (2023 - in progress)
 # Tools
-* **programming languages :** Python, JavaScript (ES6), React, HTML5 and CSS
-* **other :** SQL
+* **programming languages :** Python, JavaScript (ES6), HTML5 and CSS, TypeScript, Java
+* **other :** SQL, React, Bootstrap, JSON, jQuery
 * **OS :** Windows, Linux
 * **version control :** Git, GitHub, GitLab
 * **IDE :** IntelliJ IDEA
@@ -21,6 +21,7 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * automated testing (Selenium)
 # Currently reading
 * **Testowanie i jakość oprogramowania - modele, techniki, narzędzia** by Adam Roman
+* **Pragmatic Thinking and Learning: Refactor Your Wetware** by Andy Hunt
 # Fav websites and blogs
 * [stackoverflow.com](https://stackoverflow.com/)
 * [stackexchange.com](https://stackexchange.com/)
